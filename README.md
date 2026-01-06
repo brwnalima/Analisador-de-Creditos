@@ -1,0 +1,1 @@
+# Analisador-de-Cr-ditos-de-Clientes-Fict-cios
